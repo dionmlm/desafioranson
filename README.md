@@ -29,3 +29,7 @@ import pyaes
 ### Resutados
 
 ![Alt text](./Desafio1.PNG "Optional title")
+![Alt text](./Desafio2.PNG "Optional title")
+![Alt text](./Desafio3.PNG "Optional title")
+![Alt text](./Desafio4.PNG "Optional title")
+![Alt text](./Desafio5.PNG "Optional title")
